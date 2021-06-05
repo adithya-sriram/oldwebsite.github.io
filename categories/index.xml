@@ -1,10 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Hugo Tanka Theme Demo</title>
+    <title>Categories on Chris Turner</title>
     <link>https://adithya-sriram.github.io/categories/</link>
-    <description>Recent content in Categories on Hugo Tanka Theme Demo</description>
+    <description>Recent content in Categories on Chris Turner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://adithya-sriram.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://adithya-sriram.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>syntax</title>
+      <link>https://adithya-sriram.github.io/categories/syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithya-sriram.github.io/categories/syntax/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://adithya-sriram.github.io/categories/themes/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://adithya-sriram.github.io/categories/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>projects</title>
+      <link>https://adithya-sriram.github.io/categories/projects/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://adithya-sriram.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
